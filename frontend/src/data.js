@@ -5,7 +5,7 @@ const data = {
       name: 'Nike Slim shirt',
       slug: 'nike-slim-shirt', //its what you see on url
       cate: 'Shirts',
-      image: '/images/p1.png',
+      image: '/images/img1.jfif',
       price: 120,
       countInStock: 10,
       brand: 'nike',
@@ -18,7 +18,7 @@ const data = {
       name: 'Puma Slim shirt',
       slug: 'puma-slim-shirt', //its what you see on url
       cate: 'Shirts',
-      image: '/images/p2.png',
+      image: '/images/img2.jfif',
       price: 120,
       countInStock: 10,
       brand: 'puma',
@@ -31,7 +31,7 @@ const data = {
       name: 'Adidas Slim shirt',
       slug: 'adidas-slim-shirt', //its what you see on url
       cate: 'Shirts',
-      image: '/images/p3.png',
+      image: '/images/img3.jfif',
       price: 120,
       countInStock: 10,
       brand: 'adidas',
